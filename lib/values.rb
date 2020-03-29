@@ -12,6 +12,5 @@ def get_the_values(groceries)
   #code your solution here!
   string_format = groceries.values.join(",")
   string_format.split(",")
-  binding.pry
 end
 
